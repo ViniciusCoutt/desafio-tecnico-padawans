@@ -5,24 +5,35 @@
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <link rel="stylesheet" href="/style/standard.css">
-
+    <link rel="stylesheet" href="/style/tables.css">
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.1.0/dist/css/bootstrap.min.css" rel="stylesheet"
+        integrity="sha384-KyZXEAg3QhqLMpG8r+8fhAXLRk2vvoC2f3B09zVXn8CA5QIVfZOJ3BCsw2P0p/We" crossorigin="anonymous">
     <title>Albuns</title>
 </head>
 
 <body>
+    <header>
+        <h1><a href="index.html">Framework </a></h1>
+        <nav>
+            <ul type="none">
+                <li><a href="index.html">Menu</a></li>
+                <li><a href="posts.html">Postagens</a></li>
+                <li><a href="albums.html" style="text-decoration: underline">Albuns</a></li>
+                <li><a href="todo.html">To-do</a></li>
+            </ul>
+        </nav>
+    </header>
 
-    <table border="1">
-        <thead>
+    <table class="table table-hover">
+        <thead id="tabhead" class="table-dark">
             <tr>
                 <th>Usuário</th>
-                <th>Título</th>
+                <th>Nome do Álbum</th>
             </tr>
         </thead>
 
-        <tbody id="data">
+        <tbody id="data"></tbody>
 
-        </tbody>
     </table>
 
 

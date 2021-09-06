@@ -1,7 +1,48 @@
-#container {
-    width: min(80%, 120rem);
-    background-color: black;
-    margin: 0 auto;
+@import url('https://fonts.googleapis.com/css?family=Poppins:400,500,600,700&display=swap');
+
+header {
+    background: #0a0a0a;
+    padding: 20px;
+    color: white;
+    font-family: 'Poppins', sans-serif;
     display: flex;
-    flex-direction: column;
+    justify-content: space-between;
+    align-items: center;
 }
+
+header h1 {
+    margin-left: 5rem;
+    font-family: 'Poppins', sans-serif;
+}
+
+header ul { 
+    display: flex;
+    margin: 0;
+}
+
+header a {
+    color: white;
+    font-weight: bold;
+    text-decoration: none;
+    padding: 15px;
+    display: flex;
+}
+
+header h1:hover, header a:hover{
+    color: #5f3473;
+    transition: .2s;
+}
+
+#tabhead tr th{
+    text-align: center;
+    padding:15px;
+}
+
+#data {
+    text-align: justify;
+}
+
+#data td:first-child {
+    text-align: center;
+}
+

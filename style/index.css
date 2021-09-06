@@ -23,8 +23,6 @@ body{
     flex-direction: column;
 }
 
-
-
 header {
     background: #0a0a0a;
     padding: 20px
@@ -37,13 +35,12 @@ h1 {
     margin-left: 5rem;
 }
 
-
 main nav ul li {
     text-align: center;
     padding: 30px;
     background: #131313;
-
 }
+
 main a {
     color: white;
     font-weight: bold;
