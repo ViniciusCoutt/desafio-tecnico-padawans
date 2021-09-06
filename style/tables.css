@@ -46,7 +46,6 @@ header h1:hover, header a:hover{
     text-align: center;
 }
 
-
 @media only screen and (max-width: 960px){
 
     header {
@@ -70,7 +69,4 @@ header h1:hover, header a:hover{
     header ul {
         padding: 0;
     }
-
-
-
 }
