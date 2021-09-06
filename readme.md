@@ -13,6 +13,7 @@ Os dados fakes da tabela foram fornecidaos pela [{JSON} Placeholder].(https://js
 
 - HTML
 - CSS
+- Bootstrap
 - JavaScript
 - Fetch API 
-- Bootstrap
+
