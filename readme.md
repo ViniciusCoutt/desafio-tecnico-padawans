@@ -2,7 +2,7 @@
     Desafio Técnico Padawans
 </h1>
 
-<img src="img/menu.png">
+<img src="/img/menu.png">
 
 ## 💻 Desafio Técnico
 
