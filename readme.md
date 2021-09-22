@@ -2,7 +2,11 @@
     Desafio Técnico Padawans
 </h1>
 
-<img src="/img/menu1.png">
+# Menu Inicial
+<img src="/img/menu1.png" alt="Menu inicial">
+
+# Página de tarefas (To-do)
+<img src="/img/pagina-todo.png" alt="Página dos to-dos">
 
 ## 💻 Desafio Técnico
 
