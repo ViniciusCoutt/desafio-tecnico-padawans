@@ -10,7 +10,7 @@ Desafio que consistiu em fazer um menu com 3 opções. Onde cada opção leva a 
 <img src="/img/menu1_readme.png" alt="Menu inicial">
 
 ### Página de tarefas (To-do)
-<img src="/img/pagina-todo_readme.jpeg" alt="Página dos to-dos">
+<img src="/img/todo_readme.jpeg" alt="Página dos to-dos">
 
 ## 🚀 Tecnologias
 
