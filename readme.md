@@ -23,3 +23,4 @@ Desafio que consistiu em fazer um menu com 3 opções. Onde cada opção leva a 
 - Fetch API 
 - Jquery
 
+PS: Para rodar use a extensão Live Server
