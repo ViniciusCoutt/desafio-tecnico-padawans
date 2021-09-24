@@ -12,7 +12,7 @@ Desafio que consistiu em fazer um menu com 3 opções. Onde cada opção leva a 
 
 ### Página de tarefas (to-do) mobile
 
-<div align=”center”><img src="/img/todo_readme.jpeg" alt="Página dos to-dos"></div>
+<div align=”center”>[<img src="/img/todo_readme.jpeg" alt="Página dos to-dos">]</div>
 
 ## 🚀 Tecnologias
 
