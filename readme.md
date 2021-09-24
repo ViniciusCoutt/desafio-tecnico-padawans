@@ -15,6 +15,7 @@ Desafio que consistiu em fazer um menu com 3 opções. Onde cada opção leva a 
 <p align="center">
 <img src="/img/todo_readme.jpeg" alt="Página dos to-dos">
 </p>
+
 ## 🚀 Tecnologias
 
 - HTML
